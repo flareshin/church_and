@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>852336144012-qnnj1rlm22cphc3qqeqd6gur1tlg0qhk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.852336144012-qnnj1rlm22cphc3qqeqd6gur1tlg0qhk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZ1bxdIOwhhZdf7rI1uBnlgReU_gr-8kA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>852336144012</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.stfranciskr.churchapp</string>
+	<key>PROJECT_ID</key>
+	<string>stfrancis-c23a7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stfrancis-c23a7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:852336144012:ios:06c0992f49d816084755a9</string>
+	<key>DATABASE_URL</key>
+	<string>https://stfrancis-c23a7-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

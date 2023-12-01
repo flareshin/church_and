@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852336144012",
+    "firebase_url": "https://stfrancis-c23a7-default-rtdb.firebaseio.com",
+    "project_id": "stfrancis-c23a7",
+    "storage_bucket": "stfrancis-c23a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852336144012:android:916a3591707cbb384755a9",
+        "android_client_info": {
+          "package_name": "org.stfranciskr.churchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852336144012-h1abfok1ru3t78ppbebg2sjsg5uth954.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx0oF7BEE1MC0GOdOJiBP5ylkgsvjqPxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852336144012-h1abfok1ru3t78ppbebg2sjsg5uth954.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852336144012-qnnj1rlm22cphc3qqeqd6gur1tlg0qhk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.stfranciskr.churchapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
